@@ -1,18 +1,6 @@
-//公众号『乐享汇fans』
-//公众号『乐享生活fans』
-
-//•Q①群号：630383903
-//•Q②群号：621886232
-
-//QQ频道：搜索乐享汇fans即可           
-//微信群;加客服赞赏入群           
-//客服微信:lxhfans
-//上面链接是针对那些电视端添加仓库失败的个别人员使用
-
 {"urls": [
-{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/fans/main/jsm.json","name":"乐享汇fans🛫主力"},
-{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/fans/main/jsm1.json","name":"乐享汇fans🚀备用"},
-{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/lvcha/main/lvcha.json","name":"乐享汇fans🍵绿茶"},
+{"url": "https://ghcf5.jsdelivr.fyi/raw.githubusercontent.com/lxhfans/fans/main/jsm.json","name":"主力"},
+{"url": "https://ghcf5.jsdelivr.fyi/raw.githubusercontent.com/lxhfans/fans/main/jsm1.json","name":"备用"},
 {
       "url": "https://notabug.org/lxhfans/DEMO/raw/master/gz.txt",
       "name": "关注公众号"
