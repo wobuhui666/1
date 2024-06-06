@@ -5,23 +5,15 @@
             "name": "饭太硬推荐"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "url": "https://raw.gitmirror.com/guot55/YGBH/main/vip2.json",
             "name": "宝盒线路"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
+            "url": "https://raw.gitmirror.com//yydfys/yydf/main/XYQTVBox/xyq.json",
             "name": "香雅情镜像线路"
         },
         {
-            "url": "https://xn--3d2a1b.eu.org/",
-            "name": "蜂蜜线路推荐"
-        },
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "酷安潇洒哥线路"
-        },
-        {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+            "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0827.json",
             "name": "FongMI线路"
         },
         {
@@ -79,10 +71,6 @@
         {
             "url": "http://www.lyyytv.cn/yt/yt.json",
             "name": "影探线路"
-        },
-        {
-            "url": "http://dxawi.github.io/0/0.json",
-            "name": "dxawi线路"
         }
     ]
 }
